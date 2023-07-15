@@ -3,7 +3,7 @@ languageCode: 'en-us'
 title: "Haoruo Zhang's Personal Website"
 theme: "PaperMod"
 
-builddrafts: true
+# builddrafts: true # For local testing only
 
 menu:
     main:

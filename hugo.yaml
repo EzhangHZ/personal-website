@@ -38,8 +38,10 @@ params:
   keywords: [Blog, Portfolio, Resume, CV]
   author: Haoruo Zhang
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # to switch between dark or light according to browser theme
-  disableThemeToggle: false
+  defaultTheme: auto
+  ShowCodeCopyButtons: true
+  
+
 
   homeInfoParams:
     Title: Haoruo Zhang

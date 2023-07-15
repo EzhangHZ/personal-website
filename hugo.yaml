@@ -1,55 +1,61 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://ezhanghz.github.io/personal-website/'
 languageCode: 'en-us'
 title: "Haoruo Zhang's Personal Website"
 theme: "PaperMod"
+paginate: 5
 
 # builddrafts: true # For local testing only
 
 menu:
-    main:
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 10
-        - identifier: cv
-          name: CV/Resume
-          url: /resume/
-          weight: 20
-        - identifier: news
-          name: News
-          url: /news/
-          weight: 30
-        - identifier: example
-          name: example.org
-          url: https://example.org
-          weight: 40
-        - identifier: search
-          name: Search
-          url: /search/
-          weigt: 90
-        - identifier: archives
-          name: Archives
-          url: /archives/
-          weight: 100
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: cv
+      name: CV/Resume
+      url: /resume/
+      weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 30
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search/
+      weigt: 90
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 100
 
 
 params:
-  # defaultTheme: light
-  # defaultTheme: dark
+  keywords: [Blog, Portfolio, Resume, CV]
+  author: Me
+  DateFormat: "January 2, 2006"
   defaultTheme: auto # to switch between dark or light according to browser theme
-
   disableThemeToggle: false
 
   homeInfoParams:
-        Title: Haoruo Zhang
-        Content: 1st year gradutae, UC San Diego
+    Title: Haoruo Zhang
+    Content: |
+      1st year CSE Master, UC San Diego
+
+      - CS Bachelor of Arts, UC Berkeley
 
   socialIcons: # optional
-      - name: "Github"
-        url: "https://github.com/EzhangHZ"
-      # - name: "<platform 2>"
-      #   url: "<link2>"
+    - name: github
+      url: "https://github.com/EzhangHZ"
+    # - name: "<platform 2>"
+    #   url: "<link2>"
 
+  # for search
+  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true

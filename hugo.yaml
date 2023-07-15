@@ -24,6 +24,10 @@ menu:
       name: example.org
       url: https://example.org
       weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 80
     - identifier: search
       name: Search
       url: /search/
@@ -40,8 +44,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   ShowCodeCopyButtons: true
-  
-
 
   homeInfoParams:
     Title: Haoruo Zhang
@@ -55,7 +57,7 @@ params:
       url: "https://github.com/EzhangHZ"
     # - name: "<platform 2>"
     #   url: "<link2>"
-
+    
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:

@@ -2,6 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: "Haoruo Zhang"
+draft: true
 
 cover:
     image: "<image path/url>" # image path/url
@@ -15,7 +16,6 @@ cover:
 # author: ["Me", "You"] # multiple authors
 # showToc: true
 # TocOpen: false
-# draft: true
 # hidemeta: false
 # comments: false
 # description: "Desc Text."

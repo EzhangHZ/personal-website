@@ -12,4 +12,4 @@ Big neural networks are immensely powerful, but they are frying up even the most
 
 This is why I'm interested in fields that makes large models more approachable to people: DNN acceleration, Network Quantization, Edge Computing and novel architectures such as PIM. I want to empower everyone who can afford a cellphone to enjoy the benefits of large model on their hands.
 
-If you're interested and want to reach me, please email me at eric [dot] zhang0628 [at] gmail [dot] com.
+If you're interested and want to reach me, please email me at eric [dash] zhang0628 [at] hotmail [dot] com.

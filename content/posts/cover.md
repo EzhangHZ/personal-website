@@ -2,12 +2,12 @@
 title: "Cover"
 date: 2023-07-16T09:54:16Z
 author: "Haoruo Zhang"
-draft: false
+draft: true
 
 cover:
-    image: /apple-touch-icon.png # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: https://th.bing.com/th/id/OIP.bpJTixcJ9eRwEFjKsApJ8QAAAA?pid=ImgDet&rs=1 # image path/url
+    alt: "Too bad you didn't come with us!" # alt text
+    caption: "A beautiful scene" # display caption under cover
     relative: false # when using page bundles set this to true
     # hidden: true # only hide on current single page
 # weight: 1

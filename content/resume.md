@@ -12,10 +12,12 @@ draft: false
 
 ### University of California, San Diego
 ->_Sept. 2022 - present_
+
 **Masters of Computer Science & Engineering**, _La Jolla, CA_
 
 ### University of California, Berkeley
 ->_Sept. 2018 - May 2022_
+
 **Bachelor of Computer Science**,  _Berkeley, CA_
 
 ## Skills

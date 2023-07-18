@@ -12,4 +12,6 @@ Big neural networks are immensely powerful, but they are frying up even the most
 
 This is why I'm interested in fields that makes large models more approachable to people: DNN acceleration, Network Quantization, Edge Computing and novel architectures such as PIM. I want to empower everyone who can afford a cellphone to enjoy the benefits of large model on their hands.
 
-If you're interested and want to reach me, please email me at eric [dash] zhang0628 [at] hotmail [dot] com.
+Besides academics and research, I'm also interested in gaming, camping and sailing. I used to be a proficient piano player, but my current housing condition doesn't really allow to practice regulaly anymore. Right now, I'm planning to relean this skill, as well as some music theory and composition once I'm settled again.
+
+If you're interested and want to reach me (for research or for whatever interests), please email me at **eric [dash] zhang0628 [at] hotmail [dot] com**.

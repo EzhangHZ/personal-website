@@ -119,4 +119,4 @@ distributed servers.
 ->_Spring 2021_
 ---
 
-||: Email: **<eric-zhang0628@hotmail.com>** || Phone: **831 521 6691** || Website: **[https://ezhanghz.github.io/](https://ezhanghz.github.io/personal-website/)** :||
+<!-- ||: Email: **<eric-zhang0628@hotmail.com>** || Phone: **831 521 6691** || Website: **[https://ezhanghz.github.io/](https://ezhanghz.github.io/personal-website/)** :|| -->

@@ -20,14 +20,6 @@ frontmatter:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 10
-    - identifier: publications
-      name: Publications
-      url: /publications/
-      weight: 20
     - identifier: posts
       name: Posts
       url: /posts/
@@ -96,7 +88,9 @@ params:
       - CSE MS, UC San Diego 2022-2024
       - CS BA, UC Berkeley 2018-2022
 
-      Hi there :wave:, welcome to my blog! For more info about myself, click [**About**](about).
+      Hi there :wave:, welcome to my blog! For my CV, click [**here**](https://ezhanghz.onrender.com/CV-EN.pdf).
+
+      **Email:** eric [dash] zhang0628 [at] hotmail [dot] com
 
   socialIcons: # optional
     - name: github

@@ -1,8 +1,8 @@
----
-title: "About"
-date: 2024-08-06T23:45:19Z
-draft: false
----
++++
+title = 'About'
+date = 2024-08-06T16:06:12Z
+draft = false
++++
 
 **Name:** Haoruo (Eric) Zhang
 

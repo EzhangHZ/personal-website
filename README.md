@@ -1,5 +1,9 @@
 # Intro
 
-This repo hosts the source code of my [personal website](https://ezhanghz.github.io/personal-website/).
+This repo hosts the source code of my [personal website](https://ezhanghz.onrender.com/).
 
-Thanks to [HUGO](https://github.com/gohugoio/hugo) and [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+This site is build with [HUGO](https://github.com/gohugoio/hugo).
+
+The theme I used is [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
+
+The site is hosted on [Render](https://render.com/).

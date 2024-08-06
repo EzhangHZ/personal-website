@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Haoruo Zhang&#39;s Personal Website</title>
+    <link>http://localhost:1313/personal-website/about/</link>
+    <description>Recent content in Abouts on Haoruo Zhang&#39;s Personal Website</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2023 09:45:19 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal-website/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/personal-website/about/about/</link>
+      <pubDate>Sat, 15 Jul 2023 09:45:19 +0000</pubDate>
+      <guid>http://localhost:1313/personal-website/about/about/</guid>
+      <description>Name: Haoruo (Eric) Zhang
+Email: eric [dash] zhang0628 [at] hotmail [dot] com
+To download my CV, please click here.
+Hello there!
+I&amp;rsquo;m a newly graduated CSE graduate in UC San Diego specialized in deep learning and Large Language Models. I&amp;rsquo;m also learning embedded devices and edge computing.
+Big neural networks are immensely powerful, but they are frying up even the most capable computing cluster humanity has created. For ordinary people, these massive models are fascinating to watch but difficult to play around within their hands.</description>
+    </item>
+  </channel>
+</rss>

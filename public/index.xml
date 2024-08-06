@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haoruo Zhang&#39;s Personal Website</title>
+    <link>http://localhost:1313/personal-website/</link>
+    <description>Recent content on Haoruo Zhang&#39;s Personal Website</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2023 10:19:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coverwithlocalimage</title>
+      <link>http://localhost:1313/personal-website/posts/coverwithlocalimage/</link>
+      <pubDate>Sun, 16 Jul 2023 10:19:57 +0000</pubDate>
+      <guid>http://localhost:1313/personal-website/posts/coverwithlocalimage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cover</title>
+      <link>http://localhost:1313/personal-website/posts/cover/</link>
+      <pubDate>Sun, 16 Jul 2023 09:54:16 +0000</pubDate>
+      <guid>http://localhost:1313/personal-website/posts/cover/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/personal-website/about/</link>
+      <pubDate>Sat, 15 Jul 2023 09:45:19 +0000</pubDate>
+      <guid>http://localhost:1313/personal-website/about/</guid>
+      <description>Name: Haoruo (Eric) Zhang
+Email: eric [dash] zhang0628 [at] hotmail [dot] com
+To download my CV, please click here.
+Hello there!
+I&amp;rsquo;m a newly graduated CSE graduate in UC San Diego specialized in deep learning and Large Language Models. I&amp;rsquo;m also learning embedded devices and edge computing.
+Big neural networks are immensely powerful, but they are frying up even the most capable computing cluster humanity has created. For ordinary people, these massive models are fascinating to watch but difficult to play around within their hands.</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/personal-website/posts/test/</link>
+      <pubDate>Sat, 15 Jul 2023 07:50:16 +0000</pubDate>
+      <guid>http://localhost:1313/personal-website/posts/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/personal-website/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal-website/publications/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

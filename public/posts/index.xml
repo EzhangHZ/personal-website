@@ -2,32 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Haoruo Zhang&#39;s Personal Website</title>
-    <link>http://localhost:1313/personal-website/posts/</link>
+    <link>https://ezhanghz.onrender.com/posts/</link>
     <description>Recent content in Posts on Haoruo Zhang&#39;s Personal Website</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2023 10:19:57 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/personal-website/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Coverwithlocalimage</title>
-      <link>http://localhost:1313/personal-website/posts/coverwithlocalimage/</link>
-      <pubDate>Sun, 16 Jul 2023 10:19:57 +0000</pubDate>
-      <guid>http://localhost:1313/personal-website/posts/coverwithlocalimage/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cover</title>
-      <link>http://localhost:1313/personal-website/posts/cover/</link>
-      <pubDate>Sun, 16 Jul 2023 09:54:16 +0000</pubDate>
-      <guid>http://localhost:1313/personal-website/posts/cover/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/personal-website/posts/test/</link>
-      <pubDate>Sat, 15 Jul 2023 07:50:16 +0000</pubDate>
-      <guid>http://localhost:1313/personal-website/posts/test/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://ezhanghz.onrender.com/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

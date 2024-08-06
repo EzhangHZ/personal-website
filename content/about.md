@@ -1,7 +1,6 @@
 +++
 title = 'About'
 date = 2024-08-06T16:06:12Z
-lastmod = 
 draft = false
 +++
 

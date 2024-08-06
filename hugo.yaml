@@ -4,6 +4,7 @@ title: "Haoruo Zhang's Personal Website"
 theme: "PaperMod"
 paginate: 6
 
+enableGitInfo: true
 enableEmoji: true
 enableRobotsTXT: true
 buildDrafts: false

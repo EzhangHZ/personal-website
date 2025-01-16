@@ -2,7 +2,8 @@ baseURL: 'https://ezhanghz.onrender.com/'
 languageCode: 'en-us'
 title: "Haoruo Zhang's Personal Website"
 theme: "PaperMod"
-paginate: 6
+pagination:
+  pagerSize: 10
 
 enableGitInfo: true
 enableEmoji: true
@@ -85,10 +86,11 @@ params:
   homeInfoParams:
     Title: Haoruo Zhang
     Content: |
+      - MAE PhD, Nanyang Technological University 2025-Present
       - CSE MS, UC San Diego 2022-2024
       - CS BA, UC Berkeley 2018-2022
 
-      Hi there :wave:, welcome to my blog! For my CV, click [**here**](https://ezhanghz.onrender.com/Haoruo-Zhang-CV-0814.pdf).
+      Hi there :wave:, welcome to my blog! For my CV, click [**here**](https://ezhanghz.onrender.com/Haoruo_Zhang_CV_250117.pdf).
 
       **Email:** eric [dash] zhang0628 [at] hotmail [dot] com
 

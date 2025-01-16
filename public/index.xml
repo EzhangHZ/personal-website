@@ -2,41 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Haoruo Zhang&#39;s Personal Website</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ezhanghz.onrender.com/</link>
     <description>Recent content on Haoruo Zhang&#39;s Personal Website</description>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2024 17:27:25 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ezhanghz.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://ezhanghz.onrender.com/posts/introduction/</link>
       <pubDate>Tue, 06 Aug 2024 16:55:15 +0000</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>Hello there!
-I&amp;rsquo;m a newly graduated CSE graduate in UC San Diego specialized in deep learning and Large Language Models. I&amp;rsquo;m also learning embedded devices and edge computing.
-Big neural networks are immensely powerful, but they are frying up even the most capable computing cluster humanity has created. For ordinary people, these massive models are fascinating to watch but difficult to play around within their hands.
-This is why I&amp;rsquo;m interested in fields that makes large models more approachable to people: DNN acceleration, Network Quantization, Edge Computing and novel architectures such as PIM.</description>
+      <guid>https://ezhanghz.onrender.com/posts/introduction/</guid>
+      <description>&lt;p&gt;Hello there!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a newly graduated CSE graduate in UC San Diego specialized in deep learning and Large Language Models. I&amp;rsquo;m also learning embedded devices and edge computing.&lt;/p&gt;
+&lt;p&gt;Big neural networks are immensely powerful, but they are frying up even the most capable computing cluster humanity has created. For ordinary people, these massive models are fascinating to watch but difficult to play around within their hands.&lt;/p&gt;
+&lt;p&gt;This is why I&amp;rsquo;m interested in fields that makes large models more approachable to people: DNN acceleration, Network Quantization, Edge Computing and novel architectures such as PIM. I want to empower everyone who can afford a cellphone to enjoy the benefits of large model on their hands.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Hello there!</p>
 <p>I&rsquo;m a newly graduated CSE graduate in UC San Diego specialized in deep learning and Large Language Models. I&rsquo;m also learning embedded devices and edge computing.</p>
 <p>Big neural networks are immensely powerful, but they are frying up even the most capable computing cluster humanity has created. For ordinary people, these massive models are fascinating to watch but difficult to play around within their hands.</p>
 <p>This is why I&rsquo;m interested in fields that makes large models more approachable to people: DNN acceleration, Network Quantization, Edge Computing and novel architectures such as PIM. I want to empower everyone who can afford a cellphone to enjoy the benefits of large model on their hands.</p>
 <p>Besides academics and research, I&rsquo;m also interested in gaming, camping and sailing. I used to be a proficient piano player, but my current housing condition doesn&rsquo;t really allow to practice regularly anymore. Right now, I&rsquo;m planning to relearn this skill, as well as some music theory and composition once I&rsquo;m settled again.</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Coverwithlocalimage</title>
-      <link>http://localhost:1313/posts/example_coverwithlocalimage/</link>
-      <pubDate>Sun, 16 Jul 2023 10:19:57 +0000</pubDate>
-      <guid>http://localhost:1313/posts/example_coverwithlocalimage/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cover</title>
-      <link>http://localhost:1313/posts/example_cover/</link>
-      <pubDate>Sun, 16 Jul 2023 09:54:16 +0000</pubDate>
-      <guid>http://localhost:1313/posts/example_cover/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

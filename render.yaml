@@ -2,3 +2,4 @@ static:
   build:
     commands:
       - cp -r personal-website/public/* /var/www/html
+      # hugo --gc --minify
